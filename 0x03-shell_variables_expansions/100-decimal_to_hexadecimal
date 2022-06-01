@@ -1,6 +1,3 @@
 #!/bin/bash
 printf "%x\n" $DECIMAL
-15. #!/bin/bash
-tr 'A-Za-z' 'N-ZA-Mn-za-m'
-16. #!/bin/bash
-paste -d" " - - | cut -d " " -f 1
+
